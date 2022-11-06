@@ -1,5 +1,8 @@
 # 💫About Me :
-I am building solutions
+I'm a Web Developer with 5 years of experience  passionate about solving problems.
+I am very versatile in the digital world and I understand the core concepts of technology and digitalization. 
+At the  beginning of my tech journey I worked with core frontend technologies such as HTML, CSS, and Javascript DOM manipulations, and when I gained a certain level of knowledge in frontend development, I started migrating into backend development concepts and I worked with core PHP to create full stack projects before I discovered some PHP frameworks like Laravel. In the later stage of my tech journey I learnt new skills and I migrated into new fields such as Pentesting which I made my hobby; some of the new skills I learnt were SEO(I learnt  It in 2020), Automations with Python and Malware development which I self learnt by reverse engineering my codes.
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/frutful.paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulfruitful) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Paulfruitful_) 
