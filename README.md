@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Skilled and results-oriented Software Developer with more than 5 years of experience working in a variety of environments with a breadth of programs and technologies. I am proficient with coding in Javascript, Python and PHP, I have built different systems using these languages.
+Skilled and results-oriented Software Developer with more than half a decade of experience working in a variety of environments with a breadth of programs and technologies. I am proficient with coding in Javascript, Python and PHP, I have built different systems using these languages.
 
 
 
