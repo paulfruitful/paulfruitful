@@ -1,6 +1,9 @@
 # 💫About Me :
-
-Skilled and results-oriented Software Developer with more than half a decade of experience working in a variety of environments with a breadth of programs and technologies. I am proficient with coding in Javascript, Python and PHP, I have built different systems using these languages.
+Codes for fun,
+Squach bugs for the thrill,
+Leetcodes to pass time,
+Writes to educate,
+Enthusiastic about problems ;)
 
 
 
